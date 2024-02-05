@@ -2668,7 +2668,7 @@ records <- vector("list")
   }
   ##########
 
-  .rs.restartR()
+  #.rs.restartR()
 
   #Ambigout <- Ambigout[Ambigout$group != "Dummy",]
   ##Final Output list
